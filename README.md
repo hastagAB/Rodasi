@@ -5,7 +5,7 @@ Actually, we thought to design a app/webapp by the help of machine learning and 
 Recognising the area with greenery can help us in several ways like:-
  1: The house vs tree ratio.
  2: The ratio of planted and unplanted land.
- 3: At very far sight it gonna help us in knowing the pollution and carbon sinkin the particular area.
+ 3: At very far sight it gonna help us in knowing the pollution and carbon sinking the particular area.
 
 ## Technologies we are using are:-
   * Tensor flow
