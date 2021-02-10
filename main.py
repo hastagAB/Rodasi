@@ -5,7 +5,7 @@ from cv2 import cv2
 from matplotlib import pyplot as plt 
 
 
-path = '/home/hastagab/Desktop/ab.png'
+path = '/home/hastagab/Desktop/TrackGreen/Example/ab.png'
 
   
 def getStats(path):
@@ -27,12 +27,12 @@ def getStats(path):
   dist_transform = cv2.distanceTransform(closing, cv2.DIST_L2, 0) 
   ret, fg = cv2.threshold(dist_transform, 0.02
               * dist_transform.max(), 255, 0) 
-  cv2.imwrite('/home/hastagab/Desktop/abcd.png', fg)
+  cv2.imwrite('/home/hastagab/Desktop/TrackGreen/Example/abcd.png', fg)
 
   from PIL import Image
-  im = Image.open('/home/hastagab/Desktop/abcd.png')
+  im = Image.open('/home/hastagab/Desktop/TrackGreen/Example/abcd.png')
 
-  image = cv2.imread('/home/hastagab/Desktop/abcd.png',0)
+  image = cv2.imread('/home/hastagab/Desktop/TrackGreen/Example/abcd.png',0)
   count = cv2.countNonZero(image)  #Black Pixel count
   white_pix = (image.size-count)/(25.75/3)
 
