@@ -1,0 +1,3202 @@
+{
+    "295": {
+        "pix_trees": 3307669,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 114630.57686399999,
+        "trees_count": 4451.672887922329,
+        "o2_seg": 96909085.93
+    },
+    "287": {
+        "pix_trees": 2711643,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 93974.699808,
+        "trees_count": 3649.5029051650486,
+        "o2_seg": 79447597.07000001
+    },
+    "172": {
+        "pix_trees": 2212251,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 76667.770656,
+        "trees_count": 2977.38915168932,
+        "o2_seg": 64816524.11
+    },
+    "434": {
+        "pix_trees": 8703947,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 301643.987232,
+        "trees_count": 11714.329601242718,
+        "o2_seg": 255042245.02
+    },
+    "283": {
+        "pix_trees": 5801041,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 201040.876896,
+        "trees_count": 7807.412694990291,
+        "o2_seg": 169977361.01
+    },
+    "126": {
+        "pix_trees": 1601194,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 55490.979264,
+        "trees_count": 2154.9894859805827,
+        "o2_seg": 46897814.22
+    },
+    "263": {
+        "pix_trees": 1046502,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 36267.573312,
+        "trees_count": 1408.4494490097088,
+        "o2_seg": 30655581.44
+    },
+    "058": {
+        "pix_trees": 7221478,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 250267.54156800002,
+        "trees_count": 9719.127827883496,
+        "o2_seg": 211606247.17000002
+    },
+    "372": {
+        "pix_trees": 2197999,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 76173.853344,
+        "trees_count": 2958.207896854369,
+        "o2_seg": 64402847.94
+    },
+    "235": {
+        "pix_trees": 1282250,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 44437.656,
+        "trees_count": 1725.7342135922331,
+        "o2_seg": 37557441.75
+    },
+    "265": {
+        "pix_trees": 3252136,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 112706.025216,
+        "trees_count": 4376.933018097087,
+        "o2_seg": 95276153.68
+    },
+    "536": {
+        "pix_trees": 1158362,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 40144.193472,
+        "trees_count": 1558.997804737864,
+        "o2_seg": 33921445.94
+    },
+    "261": {
+        "pix_trees": 2601230,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 90148.22688,
+        "trees_count": 3500.9020147572814,
+        "o2_seg": 76203505.0
+    },
+    "272": {
+        "pix_trees": 3059074,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 106015.26854399999,
+        "trees_count": 4117.09780753398,
+        "o2_seg": 89637094.31
+    },
+    "366": {
+        "pix_trees": 1150213,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 39861.781728,
+        "trees_count": 1548.0303583689322,
+        "o2_seg": 33703721.64
+    },
+    "510": {
+        "pix_trees": 436069,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 15112.407264000001,
+        "trees_count": 586.889602485437,
+        "o2_seg": 12758643.98
+    },
+    "568": {
+        "pix_trees": 259243,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 8984.325407999999,
+        "trees_count": 348.9058410873786,
+        "o2_seg": 7576805.64
+    },
+    "175": {
+        "pix_trees": 382726,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 13263.752256000002,
+        "trees_count": 515.0971749902914,
+        "o2_seg": 11212801.45
+    },
+    "234": {
+        "pix_trees": 980254,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 33971.682624,
+        "trees_count": 1319.288645592233,
+        "o2_seg": 28717835.17
+    },
+    "089": {
+        "pix_trees": 549300,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 19036.540800000002,
+        "trees_count": 739.2831378640777,
+        "o2_seg": 16089825.77
+    },
+    "385": {
+        "pix_trees": 602369,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 20875.700064,
+        "trees_count": 810.7067986019417,
+        "o2_seg": 17635668.3
+    },
+    "078": {
+        "pix_trees": 914023,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 31676.381088,
+        "trees_count": 1230.1507218640777,
+        "o2_seg": 26780088.9
+    },
+    "148": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "330": {
+        "pix_trees": 1876036,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 65015.903615999996,
+        "trees_count": 2524.8894608155338,
+        "o2_seg": 54953613.32
+    },
+    "251": {
+        "pix_trees": 698417,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 24204.339551999998,
+        "trees_count": 939.9743515339804,
+        "o2_seg": 20444311.77
+    },
+    "001": {
+        "pix_trees": 5143658,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 178258.611648,
+        "trees_count": 6922.664530019417,
+        "o2_seg": 150708760.46
+    },
+    "110": {
+        "pix_trees": 373882,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 12957.254592000001,
+        "trees_count": 503.19435308737866,
+        "o2_seg": 10951532.290000001
+    },
+    "325": {
+        "pix_trees": 835090,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 28940.879040000003,
+        "trees_count": 1123.9176326213594,
+        "o2_seg": 24450438.89
+    },
+    "551": {
+        "pix_trees": 3200324,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 110910.428544,
+        "trees_count": 4307.201108504854,
+        "o2_seg": 93773856.01
+    },
+    "475": {
+        "pix_trees": 2190110,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 75900.45216,
+        "trees_count": 2947.5903751456312,
+        "o2_seg": 64163351.21
+    },
+    "119": {
+        "pix_trees": 819077,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 28385.932512,
+        "trees_count": 1102.366311145631,
+        "o2_seg": 23993217.86
+    },
+    "476": {
+        "pix_trees": 579433,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 20080.830048,
+        "trees_count": 779.8380601165048,
+        "o2_seg": 16960722.97
+    },
+    "028": {
+        "pix_trees": 270136,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 9361.833216,
+        "trees_count": 363.5663384854369,
+        "o2_seg": 7903392.09
+    },
+    "462": {
+        "pix_trees": 5051231,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 175055.46153600002,
+        "trees_count": 6798.270350912622,
+        "o2_seg": 148008979.14000002
+    },
+    "425": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "154": {
+        "pix_trees": 972961,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 33718.936416,
+        "trees_count": 1309.4732588737863,
+        "o2_seg": 28500110.87
+    },
+    "346": {
+        "pix_trees": 625250,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 21668.664,
+        "trees_count": 841.5015145631069,
+        "o2_seg": 18310613.63
+    },
+    "326": {
+        "pix_trees": 820180,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 28424.158079999997,
+        "trees_count": 1103.8507992233008,
+        "o2_seg": 24014990.29
+    },
+    "150": {
+        "pix_trees": 627119,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 21733.436064,
+        "trees_count": 844.0169345242718,
+        "o2_seg": 18375930.92
+    },
+    "345": {
+        "pix_trees": 1036876,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 35933.974656,
+        "trees_count": 1395.4941613980582,
+        "o2_seg": 30372539.85
+    },
+    "000": {
+        "pix_trees": 800941,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 27757.411296,
+        "trees_count": 1077.9577202330097,
+        "o2_seg": 23448907.11
+    },
+    "498": {
+        "pix_trees": 517360,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 17929.62816,
+        "trees_count": 696.296239223301,
+        "o2_seg": 15153611.28
+    },
+    "118": {
+        "pix_trees": 6292900,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 218086.74240000002,
+        "trees_count": 8469.388054368932,
+        "o2_seg": 184390709.67000002
+    },
+    "573": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "252": {
+        "pix_trees": 54427,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 1886.222112,
+        "trees_count": 73.25134415533981,
+        "o2_seg": 1589387.3900000001
+    },
+    "535": {
+        "pix_trees": 258534,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 8959.754304,
+        "trees_count": 347.9516234563107,
+        "o2_seg": 7555033.21
+    },
+    "128": {
+        "pix_trees": 2698122,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 93506.116032,
+        "trees_count": 3631.3054769708738,
+        "o2_seg": 79055693.33
+    },
+    "380": {
+        "pix_trees": 1912845,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 66291.55632,
+        "trees_count": 2574.429371650486,
+        "o2_seg": 56042234.82
+    },
+    "329": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "598": {
+        "pix_trees": 5918396,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 205107.93177599998,
+        "trees_count": 7965.356573825242,
+        "o2_seg": 173417404.95
+    },
+    "052": {
+        "pix_trees": 8260305,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 286269.13008000003,
+        "trees_count": 11117.247770097089,
+        "o2_seg": 242044104.31
+    },
+    "526": {
+        "pix_trees": 768033,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 26616.951648,
+        "trees_count": 1033.6680251650484,
+        "o2_seg": 22490920.19
+    },
+    "499": {
+        "pix_trees": 1722626,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 59699.326656000005,
+        "trees_count": 2318.4204526601943,
+        "o2_seg": 50468492.74
+    },
+    "259": {
+        "pix_trees": 3163454,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 109632.66182400001,
+        "trees_count": 4257.579099961165,
+        "o2_seg": 92685234.51
+    },
+    "464": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "258": {
+        "pix_trees": 814203,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 28217.019168,
+        "trees_count": 1095.806569631068,
+        "o2_seg": 23840810.85
+    },
+    "501": {
+        "pix_trees": 1109004,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 38433.642624,
+        "trees_count": 1492.568645592233,
+        "o2_seg": 32484465.56
+    },
+    "544": {
+        "pix_trees": 2330386,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 80761.85721599999,
+        "trees_count": 3136.382804504854,
+        "o2_seg": 68278340.48
+    },
+    "136": {
+        "pix_trees": 7358705,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 255023.28048,
+        "trees_count": 9903.816717669903,
+        "o2_seg": 215612374.29
+    },
+    "524": {
+        "pix_trees": 101941,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 3532.8672960000004,
+        "trees_count": 137.1987299417476,
+        "o2_seg": 2982822.91
+    },
+    "123": {
+        "pix_trees": 1986205,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 68833.92048,
+        "trees_count": 2673.1619603883496,
+        "o2_seg": 58197705.39
+    },
+    "515": {
+        "pix_trees": 4014088,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 139112.233728,
+        "trees_count": 5402.416843805825,
+        "o2_seg": 117614666.86
+    },
+    "074": {
+        "pix_trees": 1153377,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 39971.433312,
+        "trees_count": 1552.2886723106797,
+        "o2_seg": 33790811.36
+    },
+    "584": {
+        "pix_trees": 729001,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 25264.258656,
+        "trees_count": 981.136258485437,
+        "o2_seg": 21358753.830000002
+    },
+    "213": {
+        "pix_trees": 3690818,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 127908.98860799999,
+        "trees_count": 4967.339363417475,
+        "o2_seg": 108143659.81
+    },
+    "588": {
+        "pix_trees": 2463885,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 85388.39856,
+        "trees_count": 3316.054313009709,
+        "o2_seg": 72197377.88
+    },
+    "334": {
+        "pix_trees": 2281008,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 79050.613248,
+        "trees_count": 3069.92672807767,
+        "o2_seg": 66819587.67
+    },
+    "592": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "156": {
+        "pix_trees": 1067925,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 37010.008799999996,
+        "trees_count": 1437.2818951456309,
+        "o2_seg": 31286981.91
+    },
+    "305": {
+        "pix_trees": 1667203,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 57778.587168,
+        "trees_count": 2243.8286278834953,
+        "o2_seg": 48835560.49
+    },
+    "266": {
+        "pix_trees": 1000365,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34668.64944,
+        "trees_count": 1346.3553180582526,
+        "o2_seg": 29305690.78
+    },
+    "530": {
+        "pix_trees": 2460970,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 85287.37632,
+        "trees_count": 3312.1311192233006,
+        "o2_seg": 72110288.16
+    },
+    "138": {
+        "pix_trees": 1320338,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 45757.633728,
+        "trees_count": 1776.9954845825243,
+        "o2_seg": 38667835.68
+    },
+    "260": {
+        "pix_trees": 4148372,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 143765.980032,
+        "trees_count": 5583.14485561165,
+        "o2_seg": 121555476.69
+    },
+    "011": {
+        "pix_trees": 2388344,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 82770.449664,
+        "trees_count": 3214.386394718447,
+        "o2_seg": 69976590.02
+    },
+    "257": {
+        "pix_trees": 1075373,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 37268.126688000004,
+        "trees_count": 1447.3058907961167,
+        "o2_seg": 31504706.21
+    },
+    "447": {
+        "pix_trees": 1907210,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 66096.26976,
+        "trees_count": 2566.8454275728154,
+        "o2_seg": 55868055.38
+    },
+    "411": {
+        "pix_trees": 272572,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 9446.255232,
+        "trees_count": 366.84486337864075,
+        "o2_seg": 7968709.38
+    },
+    "271": {
+        "pix_trees": 3536481,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 122560.28553600001,
+        "trees_count": 4759.622739262137,
+        "o2_seg": 103614994.37
+    },
+    "121": {
+        "pix_trees": 220213,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 7631.701728,
+        "trees_count": 296.3767661359223,
+        "o2_seg": 6444639.28
+    },
+    "021": {
+        "pix_trees": 407986,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 14139.162816,
+        "trees_count": 549.0937015922331,
+        "o2_seg": 11953064.07
+    },
+    "122": {
+        "pix_trees": 4962892,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 171993.985152,
+        "trees_count": 6679.37806415534,
+        "o2_seg": 145418059.97
+    },
+    "339": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "324": {
+        "pix_trees": 12952,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 448.86451200000005,
+        "trees_count": 17.431631533980585,
+        "o2_seg": 370131.31
+    },
+    "444": {
+        "pix_trees": 3273249,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 113437.717344,
+        "trees_count": 4405.348246368932,
+        "o2_seg": 95907554.15
+    },
+    "277": {
+        "pix_trees": 4247473,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 147200.424288,
+        "trees_count": 5716.521331572816,
+        "o2_seg": 124451209.88
+    },
+    "413": {
+        "pix_trees": 2477573,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 85862.76988800001,
+        "trees_count": 3334.476500504855,
+        "o2_seg": 72589281.62
+    },
+    "323": {
+        "pix_trees": 843192,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 29221.661952,
+        "trees_count": 1134.8218233786408,
+        "o2_seg": 24689935.62
+    },
+    "409": {
+        "pix_trees": 2589577,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 89744.380512,
+        "trees_count": 3485.2186606601945,
+        "o2_seg": 75876918.55
+    },
+    "092": {
+        "pix_trees": 3320250,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 115066.58399999999,
+        "trees_count": 4468.605203883495,
+        "o2_seg": 97279217.24
+    },
+    "208": {
+        "pix_trees": 3999669,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 138612.528864,
+        "trees_count": 5383.010829669903,
+        "o2_seg": 117200990.69
+    },
+    "467": {
+        "pix_trees": 3056462,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 105924.747072,
+        "trees_count": 4113.582410563106,
+        "o2_seg": 89550004.59
+    },
+    "514": {
+        "pix_trees": 203644,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 7057.4864640000005,
+        "trees_count": 274.07714423300973,
+        "o2_seg": 5965645.82
+    },
+    "512": {
+        "pix_trees": 7911866,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 274193.628096,
+        "trees_count": 10648.296236737864,
+        "o2_seg": 231832834.64000002
+    },
+    "070": {
+        "pix_trees": 1546184,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 53584.552704,
+        "trees_count": 2080.9535030679613,
+        "o2_seg": 45286654.4
+    },
+    "301": {
+        "pix_trees": 1472966,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 51047.109696,
+        "trees_count": 1982.4120270291262,
+        "o2_seg": 43152956.26
+    },
+    "098": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "095": {
+        "pix_trees": 2013797,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 69790.14883199999,
+        "trees_count": 2710.297042019417,
+        "o2_seg": 59003285.300000004
+    },
+    "250": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "243": {
+        "pix_trees": 3853202,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 133536.568512,
+        "trees_count": 5185.886155805825,
+        "o2_seg": 112890049.55
+    },
+    "192": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "145": {
+        "pix_trees": 3021728,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 104721.00556800001,
+        "trees_count": 4066.8351676893208,
+        "o2_seg": 88526700.38
+    },
+    "221": {
+        "pix_trees": 1941782,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 67294.39699200001,
+        "trees_count": 2613.3746404660196,
+        "o2_seg": 56891359.59
+    },
+    "312": {
+        "pix_trees": 340012,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 11783.455872,
+        "trees_count": 457.60993677669904,
+        "o2_seg": 9950000.51
+    },
+    "439": {
+        "pix_trees": 7917540,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 274390.26624,
+        "trees_count": 10655.932669514565,
+        "o2_seg": 231985241.65
+    },
+    "155": {
+        "pix_trees": 3036543,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 105234.434208,
+        "trees_count": 4086.7741440000004,
+        "o2_seg": 88962148.98
+    },
+    "348": {
+        "pix_trees": 4375666,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 151643.080896,
+        "trees_count": 5889.051685281554,
+        "o2_seg": 128217840.27
+    },
+    "569": {
+        "pix_trees": 2273835,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 78802.02576,
+        "trees_count": 3060.272845048544,
+        "o2_seg": 66623635.800000004
+    },
+    "574": {
+        "pix_trees": 1860910,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 64491.69696,
+        "trees_count": 2504.5319207766993,
+        "o2_seg": 54518164.72
+    },
+    "540": {
+        "pix_trees": 7381152,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 255801.203712,
+        "trees_count": 9934.02732862136,
+        "o2_seg": 216287319.62
+    },
+    "586": {
+        "pix_trees": 381316,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 13214.887295999999,
+        "trees_count": 513.1995066407767,
+        "o2_seg": 11169256.59
+    },
+    "176": {
+        "pix_trees": 4007256,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 138875.46393600001,
+        "trees_count": 5393.221900427185,
+        "o2_seg": 117418714.99
+    },
+    "480": {
+        "pix_trees": 3519525,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 121972.65840000001,
+        "trees_count": 4736.802267961166,
+        "o2_seg": 103114228.48
+    },
+    "289": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "545": {
+        "pix_trees": 6440607,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 223205.676192,
+        "trees_count": 8668.18159968932,
+        "o2_seg": 188723423.24
+    },
+    "281": {
+        "pix_trees": 1844911,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 63937.235616,
+        "trees_count": 2482.999441398058,
+        "o2_seg": 54039171.26
+    },
+    "181": {
+        "pix_trees": 1416061,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 49075.010016,
+        "trees_count": 1905.8256316893203,
+        "o2_seg": 41476479.15
+    },
+    "388": {
+        "pix_trees": 299102,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 10365.678912000001,
+        "trees_count": 402.55063735922334,
+        "o2_seg": 8752516.86
+    },
+    "290": {
+        "pix_trees": 268868,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 9317.889408000001,
+        "trees_count": 361.8597828349515,
+        "o2_seg": 7859847.23
+    },
+    "351": {
+        "pix_trees": 2555013,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 88546.53052799999,
+        "trees_count": 3438.7002146796112,
+        "o2_seg": 74853614.34
+    },
+    "171": {
+        "pix_trees": 3747269,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 129865.354464,
+        "trees_count": 5043.31473646602,
+        "o2_seg": 109798364.49
+    },
+    "391": {
+        "pix_trees": 3164775,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 109678.44239999999,
+        "trees_count": 4259.356986407766,
+        "o2_seg": 92728779.37
+    },
+    "442": {
+        "pix_trees": 1504979,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 52156.55222399999,
+        "trees_count": 2025.4971737475726,
+        "o2_seg": 44089170.75
+    },
+    "023": {
+        "pix_trees": 913537,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 31659.538271999998,
+        "trees_count": 1229.49663192233,
+        "o2_seg": 26758316.47
+    },
+    "518": {
+        "pix_trees": 2418194,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 83804.931264,
+        "trees_count": 3254.560437436893,
+        "o2_seg": 70847487.22
+    },
+    "302": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "484": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "558": {
+        "pix_trees": 3584965,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 124240.54704,
+        "trees_count": 4824.875613203883,
+        "o2_seg": 105030202.32000001
+    },
+    "313": {
+        "pix_trees": 3213328,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 111361.09516799999,
+        "trees_count": 4324.7027249708735,
+        "o2_seg": 94143987.32000001
+    },
+    "428": {
+        "pix_trees": 7563715,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 262128.10704,
+        "trees_count": 10179.732312233009,
+        "o2_seg": 221621564.97
+    },
+    "410": {
+        "pix_trees": 2192621,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 75987.473376,
+        "trees_count": 2950.96983984466,
+        "o2_seg": 64228668.5
+    },
+    "248": {
+        "pix_trees": 107682,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 3731.827392,
+        "trees_count": 144.9253356116505,
+        "o2_seg": 3135229.92
+    },
+    "355": {
+        "pix_trees": 594453,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 20601.363168,
+        "trees_count": 800.0529385631067,
+        "o2_seg": 17417944.0
+    },
+    "373": {
+        "pix_trees": 4282702,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 148421.320512,
+        "trees_count": 5763.934777165049,
+        "o2_seg": 125474514.09
+    },
+    "077": {
+        "pix_trees": 2744423,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 95110.723488,
+        "trees_count": 3693.620329631068,
+        "o2_seg": 80405583.99
+    },
+    "590": {
+        "pix_trees": 173574,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 6015.380544,
+        "trees_count": 233.60701141747572,
+        "o2_seg": 5072976.19
+    },
+    "491": {
+        "pix_trees": 4444732,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 154036.632192,
+        "trees_count": 5982.0051336699025,
+        "o2_seg": 130242676.26
+    },
+    "214": {
+        "pix_trees": 3136372,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 108694.10803199999,
+        "trees_count": 4221.130409009708,
+        "o2_seg": 91901427.03
+    },
+    "071": {
+        "pix_trees": 2987081,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 103520.279136,
+        "trees_count": 4020.205014990291,
+        "o2_seg": 87525168.6
+    },
+    "040": {
+        "pix_trees": 3408594,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 118128.233664,
+        "trees_count": 4587.504219961165,
+        "o2_seg": 99870136.41
+    },
+    "149": {
+        "pix_trees": 3740562,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 129632.91667199999,
+        "trees_count": 5034.288026097087,
+        "o2_seg": 109602412.62
+    },
+    "593": {
+        "pix_trees": 3316758,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 114945.565248,
+        "trees_count": 4463.905446524272,
+        "o2_seg": 97170355.09
+    },
+    "440": {
+        "pix_trees": 912365,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 31618.921440000002,
+        "trees_count": 1227.9192792233011,
+        "o2_seg": 26714771.61
+    },
+    "106": {
+        "pix_trees": 5823029,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 201802.89302400002,
+        "trees_count": 7837.005554330098,
+        "o2_seg": 170630533.91
+    },
+    "229": {
+        "pix_trees": 716231,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 24821.701536,
+        "trees_count": 963.9495742135922,
+        "o2_seg": 20966850.09
+    },
+    "228": {
+        "pix_trees": 4318401,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 149658.505056,
+        "trees_count": 5811.980778873786,
+        "o2_seg": 126519590.73
+    },
+    "019": {
+        "pix_trees": 3156046,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 109375.930176,
+        "trees_count": 4247.608938873786,
+        "o2_seg": 92467510.21000001
+    },
+    "416": {
+        "pix_trees": 2571613,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 89121.820128,
+        "trees_count": 3461.0415583689323,
+        "o2_seg": 75354380.23
+    },
+    "002": {
+        "pix_trees": 1618920,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 56105.29152,
+        "trees_count": 2178.8462726213593,
+        "o2_seg": 47420352.54
+    },
+    "273": {
+        "pix_trees": 142619,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 4942.604064,
+        "trees_count": 191.94578889320388,
+        "o2_seg": 4158534.13
+    },
+    "288": {
+        "pix_trees": 2111759,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 73185.119904,
+        "trees_count": 2842.1405787961166,
+        "o2_seg": 61877246.06
+    },
+    "146": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "543": {
+        "pix_trees": 722939,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 25054.173984,
+        "trees_count": 972.977630446602,
+        "o2_seg": 21162801.96
+    },
+    "006": {
+        "pix_trees": 4271435,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 148030.85136,
+        "trees_count": 5748.770926601942,
+        "o2_seg": 125147927.64
+    },
+    "179": {
+        "pix_trees": 498071,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 17261.148576000003,
+        "trees_count": 670.3358670291263,
+        "o2_seg": 14587528.1
+    },
+    "508": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "161": {
+        "pix_trees": 2714202,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 94063.384512,
+        "trees_count": 3652.946971339806,
+        "o2_seg": 79512914.36
+    },
+    "163": {
+        "pix_trees": 1554246,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 53863.949376000004,
+        "trees_count": 2091.803859262136,
+        "o2_seg": 45526151.13
+    },
+    "454": {
+        "pix_trees": 2833422,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 98195.072832,
+        "trees_count": 3813.4008866796116,
+        "o2_seg": 83018275.59
+    },
+    "473": {
+        "pix_trees": 5248722,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 181899.70963199998,
+        "trees_count": 7064.066393475728,
+        "o2_seg": 153800445.52
+    },
+    "331": {
+        "pix_trees": 3479248,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 120576.818688,
+        "trees_count": 4682.594900504854,
+        "o2_seg": 101938517.26
+    },
+    "162": {
+        "pix_trees": 3553396,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 123146.491776,
+        "trees_count": 4782.388030135922,
+        "o2_seg": 104115760.26
+    },
+    "004": {
+        "pix_trees": 2329567,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 80733.473952,
+        "trees_count": 3135.280541825243,
+        "o2_seg": 68256568.05
+    },
+    "193": {
+        "pix_trees": 1579322,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 54732.983232,
+        "trees_count": 2125.5527468737864,
+        "o2_seg": 46266413.75
+    },
+    "209": {
+        "pix_trees": 2451558,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 84961.19404799999,
+        "trees_count": 3299.4638465242715,
+        "o2_seg": 71827246.57000001
+    },
+    "255": {
+        "pix_trees": 2018913,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 69967.448928,
+        "trees_count": 2717.1824826407765,
+        "o2_seg": 59155692.31
+    },
+    "042": {
+        "pix_trees": 71820,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 2488.99392,
+        "trees_count": 96.65995805825243,
+        "o2_seg": 2090153.28
+    },
+    "493": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "100": {
+        "pix_trees": 5217908,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 180831.819648,
+        "trees_count": 7022.594937786408,
+        "o2_seg": 152886003.46
+    },
+    "217": {
+        "pix_trees": 504152,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 17471.891711999997,
+        "trees_count": 678.5200664854368,
+        "o2_seg": 14761707.540000001
+    },
+    "596": {
+        "pix_trees": 2653454,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 91958.101824,
+        "trees_count": 3571.1884203495147,
+        "o2_seg": 77749347.53
+    },
+    "088": {
+        "pix_trees": 7477997,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 259157.464032,
+        "trees_count": 10064.3675352233,
+        "o2_seg": 219117735.52
+    },
+    "509": {
+        "pix_trees": 7453134,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 258295.811904,
+        "trees_count": 10030.905316660193,
+        "o2_seg": 218377472.9
+    },
+    "204": {
+        "pix_trees": 62287,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 2158.618272,
+        "trees_count": 83.82983580582525,
+        "o2_seg": 1807111.69
+    },
+    "055": {
+        "pix_trees": 1001608,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34711.726848,
+        "trees_count": 1348.028227106796,
+        "o2_seg": 29349235.64
+    },
+    "299": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "103": {
+        "pix_trees": 2610257,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 90461.066592,
+        "trees_count": 3513.0511297864077,
+        "o2_seg": 76486546.59
+    },
+    "230": {
+        "pix_trees": 7472736,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 258975.138816,
+        "trees_count": 10057.28694431068,
+        "o2_seg": 218965328.51
+    },
+    "080": {
+        "pix_trees": 647048,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 22424.095488,
+        "trees_count": 870.8386597281553,
+        "o2_seg": 18942014.1
+    },
+    "276": {
+        "pix_trees": 1797476,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 62293.32825599999,
+        "trees_count": 2419.158378873786,
+        "o2_seg": 52667508.17
+    },
+    "341": {
+        "pix_trees": 2281110,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 79054.14816,
+        "trees_count": 3070.064006213592,
+        "o2_seg": 66841360.1
+    },
+    "117": {
+        "pix_trees": 731195,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 25340.29392,
+        "trees_count": 984.0890842718446,
+        "o2_seg": 21424071.12
+    },
+    "232": {
+        "pix_trees": 4512997,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 156402.424032,
+        "trees_count": 6073.880544932039,
+        "o2_seg": 132223967.39
+    },
+    "206": {
+        "pix_trees": 2575876,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 89269.55865600001,
+        "trees_count": 3466.7789769320393,
+        "o2_seg": 75463242.38
+    },
+    "306": {
+        "pix_trees": 411517,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 14261.533152,
+        "trees_count": 553.8459476504854,
+        "o2_seg": 12040153.790000001
+    },
+    "342": {
+        "pix_trees": 177528,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 6152.410368,
+        "trees_count": 238.92855798058253,
+        "o2_seg": 5181838.34
+    },
+    "529": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "397": {
+        "pix_trees": 2155242,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 74692.066752,
+        "trees_count": 2900.6627864854368,
+        "o2_seg": 63140047.0
+    },
+    "292": {
+        "pix_trees": 1664035,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 57668.79696000001,
+        "trees_count": 2239.5649304854373,
+        "o2_seg": 48748470.77
+    },
+    "065": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "497": {
+        "pix_trees": 327075,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 11335.1112,
+        "trees_count": 440.19849320388346,
+        "o2_seg": 9579869.2
+    },
+    "133": {
+        "pix_trees": 2344047,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 81235.29283199999,
+        "trees_count": 3154.7686536699025,
+        "o2_seg": 68670244.22
+    },
+    "478": {
+        "pix_trees": 372082,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 12894.873792,
+        "trees_count": 500.7717977475728,
+        "o2_seg": 10886215.0
+    },
+    "408": {
+        "pix_trees": 6742503,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 233668.18396800003,
+        "trees_count": 9074.492581281555,
+        "o2_seg": 197563029.82
+    },
+    "431": {
+        "pix_trees": 2354659,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 81603.062304,
+        "trees_count": 3169.050963262136,
+        "o2_seg": 68996830.67
+    },
+    "423": {
+        "pix_trees": 1235409,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 42814.334303999996,
+        "trees_count": 1662.6925943300969,
+        "o2_seg": 36185778.660000004
+    },
+    "158": {
+        "pix_trees": 1007662,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34921.534272,
+        "trees_count": 1356.1760882330095,
+        "o2_seg": 29523415.080000002
+    },
+    "488": {
+        "pix_trees": 5063353,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 175475.561568,
+        "trees_count": 6814.584915262136,
+        "o2_seg": 148357338.02
+    },
+    "460": {
+        "pix_trees": 4354255,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 150901.06128,
+        "trees_count": 5860.2353895145625,
+        "o2_seg": 127586439.8
+    },
+    "445": {
+        "pix_trees": 669701,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 23209.157855999998,
+        "trees_count": 901.3265186796116,
+        "o2_seg": 19616959.43
+    },
+    "047": {
+        "pix_trees": 354227,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 12276.090912,
+        "trees_count": 476.74139464077666,
+        "o2_seg": 10363676.68
+    },
+    "356": {
+        "pix_trees": 2951262,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 102278.935872,
+        "trees_count": 3971.997509592233,
+        "o2_seg": 86458319.53
+    },
+    "378": {
+        "pix_trees": 656735,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 22759.80816,
+        "trees_count": 883.8760450485437,
+        "o2_seg": 19225055.69
+    },
+    "383": {
+        "pix_trees": 196997,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 6827.128032,
+        "trees_count": 265.13118570873786,
+        "o2_seg": 5769693.95
+    },
+    "246": {
+        "pix_trees": 3610089,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 125111.24438399999,
+        "trees_count": 4858.689102291261,
+        "o2_seg": 105770464.94
+    },
+    "461": {
+        "pix_trees": 947562,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 32838.708672,
+        "trees_count": 1275.2896571650485,
+        "o2_seg": 27759848.25
+    },
+    "316": {
+        "pix_trees": 3889264,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 134786.33318400002,
+        "trees_count": 5234.420706174758,
+        "o2_seg": 113956898.62
+    },
+    "120": {
+        "pix_trees": 672329,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 23300.233824000003,
+        "trees_count": 904.8634494757282,
+        "o2_seg": 19682276.72
+    },
+    "421": {
+        "pix_trees": 3557610,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 123292.53216,
+        "trees_count": 4788.059501359224,
+        "o2_seg": 104246394.84
+    },
+    "538": {
+        "pix_trees": 1469818,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 50938.012608,
+        "trees_count": 1978.1752469126213,
+        "o2_seg": 43065866.54
+    },
+    "322": {
+        "pix_trees": 1072897,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 37182.318432,
+        "trees_count": 1443.9735313398057,
+        "o2_seg": 31417616.490000002
+    },
+    "474": {
+        "pix_trees": 4399317,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 152462.729952,
+        "trees_count": 5920.882716582524,
+        "o2_seg": 128892785.60000001
+    },
+    "386": {
+        "pix_trees": 2260737,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 78348.101472,
+        "trees_count": 3042.6447173592233,
+        "o2_seg": 66231732.06
+    },
+    "560": {
+        "pix_trees": 5222542,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 180992.41555200002,
+        "trees_count": 7028.831671922331,
+        "o2_seg": 153016638.04
+    },
+    "452": {
+        "pix_trees": 515925,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 17879.8968,
+        "trees_count": 694.3649242718446,
+        "o2_seg": 15110066.42
+    },
+    "262": {
+        "pix_trees": 500709,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 17352.571104,
+        "trees_count": 673.8862564660194,
+        "o2_seg": 14652845.39
+    },
+    "063": {
+        "pix_trees": 1585451,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 54945.389856,
+        "trees_count": 2133.8015478058255,
+        "o2_seg": 46440593.19
+    },
+    "332": {
+        "pix_trees": 2117330,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 73378.18848000001,
+        "trees_count": 2849.638387572816,
+        "o2_seg": 62029653.07
+    },
+    "236": {
+        "pix_trees": 472008,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 16357.909248,
+        "trees_count": 635.2586115728155,
+        "o2_seg": 13825493.05
+    },
+    "438": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "533": {
+        "pix_trees": 214096,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 7419.710976,
+        "trees_count": 288.14411557281556,
+        "o2_seg": 6270459.84
+    },
+    "587": {
+        "pix_trees": 3176915,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 110099.16623999999,
+        "trees_count": 4275.695776310679,
+        "o2_seg": 93077138.25
+    },
+    "585": {
+        "pix_trees": 3028154,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 104943.705024,
+        "trees_count": 4075.483690252427,
+        "o2_seg": 88722652.25
+    },
+    "594": {
+        "pix_trees": 1788203,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 61971.963168,
+        "trees_count": 2406.6781812815534,
+        "o2_seg": 52384466.58
+    },
+    "406": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "237": {
+        "pix_trees": 220751,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 7650.346656000001,
+        "trees_count": 297.10084100970874,
+        "o2_seg": 6466411.71
+    },
+    "153": {
+        "pix_trees": 1571105,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 54448.21487999999,
+        "trees_count": 2114.4937817475725,
+        "o2_seg": 46026917.02
+    },
+    "079": {
+        "pix_trees": 3803338,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 131808.481728,
+        "trees_count": 5118.775989436894,
+        "o2_seg": 111431296.74
+    },
+    "443": {
+        "pix_trees": 1789756,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 62025.783936,
+        "trees_count": 2408.7683081941746,
+        "o2_seg": 52428011.44
+    },
+    "403": {
+        "pix_trees": 3249540,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 112616.05824,
+        "trees_count": 4373.439154951457,
+        "o2_seg": 95210836.39
+    },
+    "376": {
+        "pix_trees": 3172585,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 109949.10576,
+        "trees_count": 4269.868184854369,
+        "o2_seg": 92946503.67
+    },
+    "147": {
+        "pix_trees": 3741146,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 129653.155776,
+        "trees_count": 5035.0740107184465,
+        "o2_seg": 109624185.05
+    },
+    "381": {
+        "pix_trees": 2523358,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 87449.494848,
+        "trees_count": 3396.096887300971,
+        "o2_seg": 73939172.28
+    },
+    "035": {
+        "pix_trees": 3069856,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 106388.92953600001,
+        "trees_count": 4131.608914019418,
+        "o2_seg": 89941908.33
+    },
+    "104": {
+        "pix_trees": 1199604,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 41573.476224,
+        "trees_count": 1614.503931029126,
+        "o2_seg": 35140702.02
+    },
+    "426": {
+        "pix_trees": 698176,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 24195.987456,
+        "trees_count": 939.6499982912621,
+        "o2_seg": 20444311.77
+    },
+    "389": {
+        "pix_trees": 1934445,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 67040.12592,
+        "trees_count": 2603.5000357281556,
+        "o2_seg": 56673635.29
+    },
+    "240": {
+        "pix_trees": 1801382,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 62428.694592,
+        "trees_count": 2424.415323961165,
+        "o2_seg": 52776370.32
+    },
+    "485": {
+        "pix_trees": 7441153,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 257880.598368,
+        "trees_count": 10014.780519145632,
+        "o2_seg": 218029114.02
+    },
+    "494": {
+        "pix_trees": 198274,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 6871.383744,
+        "trees_count": 266.8498541359223,
+        "o2_seg": 5791466.38
+    },
+    "225": {
+        "pix_trees": 1636496,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 56714.405376,
+        "trees_count": 2202.5011796504855,
+        "o2_seg": 47942890.86
+    },
+    "294": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "102": {
+        "pix_trees": 1292960,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 44808.82176,
+        "trees_count": 1740.1484178640776,
+        "o2_seg": 37884028.2
+    },
+    "031": {
+        "pix_trees": 1423474,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 49331.914944,
+        "trees_count": 1915.8025220970871,
+        "o2_seg": 41694203.45
+    },
+    "075": {
+        "pix_trees": 1242931,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 43075.016736,
+        "trees_count": 1672.81618392233,
+        "o2_seg": 36403502.96
+    },
+    "567": {
+        "pix_trees": 3664692,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 127003.565952,
+        "trees_count": 4932.177318524272,
+        "o2_seg": 107381624.76
+    },
+    "041": {
+        "pix_trees": 1101885,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 38186.92656,
+        "trees_count": 1482.987439223301,
+        "o2_seg": 32266741.26
+    },
+    "579": {
+        "pix_trees": 195816,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 6786.199296,
+        "trees_count": 263.5417202330097,
+        "o2_seg": 5726149.09
+    },
+    "472": {
+        "pix_trees": 5122161,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 177513.611616,
+        "trees_count": 6893.732489941748,
+        "o2_seg": 150077359.99
+    },
+    "166": {
+        "pix_trees": 1855369,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 64299.668064000005,
+        "trees_count": 2497.0744879223303,
+        "o2_seg": 54365757.71
+    },
+    "275": {
+        "pix_trees": 3603128,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 124870.003968,
+        "trees_count": 4849.320542446602,
+        "o2_seg": 105574513.07000001
+    },
+    "233": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "222": {
+        "pix_trees": 5089345,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 176376.34032,
+        "trees_count": 6849.566614368931,
+        "o2_seg": 149119373.07
+    },
+    "226": {
+        "pix_trees": 4279978,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 148326.917568,
+        "trees_count": 5760.268643417476,
+        "o2_seg": 125409196.8
+    },
+    "556": {
+        "pix_trees": 3989721,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 138267.770976,
+        "trees_count": 5369.6221738252425,
+        "o2_seg": 116896176.67
+    },
+    "207": {
+        "pix_trees": 3002839,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 104066.38838399999,
+        "trees_count": 4041.4131411262133,
+        "o2_seg": 87982389.63
+    },
+    "576": {
+        "pix_trees": 3694607,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 128040.300192,
+        "trees_count": 4972.438842407767,
+        "o2_seg": 108252521.96000001
+    },
+    "109": {
+        "pix_trees": 675516,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 23410.682496,
+        "trees_count": 909.1527182912622,
+        "o2_seg": 19791138.87
+    },
+    "124": {
+        "pix_trees": 479073,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 16602.753888,
+        "trees_count": 644.7671412815533,
+        "o2_seg": 14021444.92
+    },
+    "566": {
+        "pix_trees": 1719812,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 59601.804672000006,
+        "trees_count": 2314.6331911456314,
+        "o2_seg": 50381403.02
+    },
+    "318": {
+        "pix_trees": 264747,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 9175.072032,
+        "trees_count": 356.3134769708738,
+        "o2_seg": 7750985.08
+    },
+    "582": {
+        "pix_trees": 7550719,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 261677.71766400003,
+        "trees_count": 10162.241462679613,
+        "o2_seg": 221251433.66
+    },
+    "437": {
+        "pix_trees": 1870960,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 64839.98976,
+        "trees_count": 2518.0578547572813,
+        "o2_seg": 54822978.74
+    },
+    "202": {
+        "pix_trees": 2372044,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 82205.556864,
+        "trees_count": 3192.448810252427,
+        "o2_seg": 69497596.56
+    },
+    "107": {
+        "pix_trees": 1478313,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 51232.415328,
+        "trees_count": 1989.6083622524272,
+        "o2_seg": 43305363.27
+    },
+    "073": {
+        "pix_trees": 7018916,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 243247.552896,
+        "trees_count": 9446.506908582525,
+        "o2_seg": 205662373.78
+    },
+    "198": {
+        "pix_trees": 224400,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 7776.8064,
+        "trees_count": 302.01189902912625,
+        "o2_seg": 6575273.86
+    },
+    "165": {
+        "pix_trees": 2383334,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 82596.823104,
+        "trees_count": 3207.64361568932,
+        "o2_seg": 69824183.01
+    },
+    "559": {
+        "pix_trees": 2845246,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 98604.84537600001,
+        "trees_count": 3829.314383533981,
+        "o2_seg": 83366634.47
+    },
+    "219": {
+        "pix_trees": 1948353,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 67522.121568,
+        "trees_count": 2622.2183133203885,
+        "o2_seg": 57087311.46
+    },
+    "489": {
+        "pix_trees": 299797,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 10389.764831999999,
+        "trees_count": 403.48601289320385,
+        "o2_seg": 8774289.290000001
+    },
+    "458": {
+        "pix_trees": 4508182,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 156235.555392,
+        "trees_count": 6067.400209398059,
+        "o2_seg": 132093332.81
+    },
+    "238": {
+        "pix_trees": 1290339,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 44717.988384000004,
+        "trees_count": 1736.620908116505,
+        "o2_seg": 37796938.480000004
+    },
+    "053": {
+        "pix_trees": 6683481,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 231622.717536,
+        "trees_count": 8995.05699168932,
+        "o2_seg": 195843007.85
+    },
+    "549": {
+        "pix_trees": 1771079,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 61378.513823999994,
+        "trees_count": 2383.6316048155336,
+        "o2_seg": 51883700.69
+    },
+    "111": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "455": {
+        "pix_trees": 1583518,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 54878.399808,
+        "trees_count": 2131.1999925436894,
+        "o2_seg": 46397048.33
+    },
+    "022": {
+        "pix_trees": 1639733,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 56826.586848,
+        "trees_count": 2206.8577416699027,
+        "o2_seg": 48029980.58
+    },
+    "059": {
+        "pix_trees": 8927858,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 309403.846848,
+        "trees_count": 12015.683372737865,
+        "o2_seg": 261595746.45000002
+    },
+    "062": {
+        "pix_trees": 993860,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34443.21216,
+        "trees_count": 1337.60047223301,
+        "o2_seg": 29109738.91
+    },
+    "173": {
+        "pix_trees": 2744226,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 95103.896256,
+        "trees_count": 3693.355194407767,
+        "o2_seg": 80405583.99
+    },
+    "303": {
+        "pix_trees": 3805468,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 131882.299008,
+        "trees_count": 5121.64267992233,
+        "o2_seg": 111496614.03
+    },
+    "216": {
+        "pix_trees": 3512366,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 121724.556096,
+        "trees_count": 4727.1672270291265,
+        "o2_seg": 102918276.61
+    },
+    "134": {
+        "pix_trees": 323032,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 11194.996992,
+        "trees_count": 434.7571647378641,
+        "o2_seg": 9449234.620000001
+    },
+    "086": {
+        "pix_trees": 2839444,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 98403.771264,
+        "trees_count": 3821.5056801553396,
+        "o2_seg": 83192455.03
+    },
+    "564": {
+        "pix_trees": 1736786,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 60190.055616,
+        "trees_count": 2337.477888,
+        "o2_seg": 50882168.910000004
+    },
+    "563": {
+        "pix_trees": 2022579,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 70094.497824,
+        "trees_count": 2722.1164203495146,
+        "o2_seg": 59264554.46
+    },
+    "298": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "016": {
+        "pix_trees": 1696880,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 58807.073280000004,
+        "trees_count": 2283.769836116505,
+        "o2_seg": 49706457.69
+    },
+    "057": {
+        "pix_trees": 684063,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 23706.887328,
+        "trees_count": 920.6558185631068,
+        "o2_seg": 20030635.6
+    },
+    "141": {
+        "pix_trees": 767079,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 26583.889824,
+        "trees_count": 1032.3840708349514,
+        "o2_seg": 22469147.76
+    },
+    "349": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "479": {
+        "pix_trees": 7237439,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 250820.68598399998,
+        "trees_count": 9740.609164427184,
+        "o2_seg": 212063468.2
+    },
+    "412": {
+        "pix_trees": 4807258,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 166600.333248,
+        "trees_count": 6469.915854291263,
+        "o2_seg": 140845849.67000002
+    },
+    "099": {
+        "pix_trees": 4234658,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 146756.307648,
+        "trees_count": 5699.274083417476,
+        "o2_seg": 124081078.57000001
+    },
+    "220": {
+        "pix_trees": 991203,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34351.131168,
+        "trees_count": 1334.0245113786407,
+        "o2_seg": 29044421.62
+    },
+    "335": {
+        "pix_trees": 1415735,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 49063.71216,
+        "trees_count": 1905.38688,
+        "o2_seg": 41476479.15
+    },
+    "314": {
+        "pix_trees": 2778793,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 96301.850208,
+        "trees_count": 3739.8776779805826,
+        "o2_seg": 81407115.77
+    },
+    "018": {
+        "pix_trees": 2042654,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 70790.217024,
+        "trees_count": 2749.134641708738,
+        "o2_seg": 59852410.07
+    },
+    "200": {
+        "pix_trees": 839753,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 29102.479968,
+        "trees_count": 1130.193396815534,
+        "o2_seg": 24602845.9
+    },
+    "223": {
+        "pix_trees": 3132317,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 108553.57795199999,
+        "trees_count": 4215.672930174757,
+        "o2_seg": 91770792.45
+    },
+    "186": {
+        "pix_trees": 1345442,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 46627.637952000005,
+        "trees_count": 1810.7820563883497,
+        "o2_seg": 39408098.3
+    },
+    "113": {
+        "pix_trees": 1733434,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 60073.888704000005,
+        "trees_count": 2332.9665516116506,
+        "o2_seg": 50773306.76
+    },
+    "321": {
+        "pix_trees": 1771709,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 61400.347104,
+        "trees_count": 2384.479499184466,
+        "o2_seg": 51905473.12
+    },
+    "015": {
+        "pix_trees": 457175,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 15843.856800000001,
+        "trees_count": 615.2954097087379,
+        "o2_seg": 13390044.45
+    },
+    "375": {
+        "pix_trees": 4097978,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 142019.52556799998,
+        "trees_count": 5515.321381281553,
+        "o2_seg": 120074951.45
+    },
+    "465": {
+        "pix_trees": 584124,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 20243.401343999998,
+        "trees_count": 786.1515085048543,
+        "o2_seg": 17113129.98
+    },
+    "537": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "215": {
+        "pix_trees": 1256569,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 43547.655264,
+        "trees_count": 1691.1710782135922,
+        "o2_seg": 36817179.13
+    },
+    "244": {
+        "pix_trees": 553816,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 19193.047296,
+        "trees_count": 745.3610600388349,
+        "o2_seg": 16220460.35
+    },
+    "561": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "003": {
+        "pix_trees": 1327217,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 45996.032351999995,
+        "trees_count": 1786.2536835728154,
+        "o2_seg": 38885559.980000004
+    },
+    "160": {
+        "pix_trees": 4047800,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 140280.5568,
+        "trees_count": 5447.788613592233,
+        "o2_seg": 118594426.21000001
+    },
+    "311": {
+        "pix_trees": 3468863,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 120216.916128,
+        "trees_count": 4668.618102058253,
+        "o2_seg": 101633703.24
+    },
+    "500": {
+        "pix_trees": 1750411,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 60662.243616,
+        "trees_count": 2355.8152860582522,
+        "o2_seg": 51274072.65
+    },
+    "139": {
+        "pix_trees": 208136,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 7213.161216,
+        "trees_count": 280.12276566990295,
+        "o2_seg": 6096280.4
+    },
+    "239": {
+        "pix_trees": 2408857,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 83481.348192,
+        "trees_count": 3241.9941045436894,
+        "o2_seg": 70564445.63
+    },
+    "507": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "130": {
+        "pix_trees": 793972,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 27515.893632000003,
+        "trees_count": 1068.5783934757283,
+        "o2_seg": 23252955.240000002
+    },
+    "525": {
+        "pix_trees": 1238090,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 42907.24704,
+        "trees_count": 1666.3008559223301,
+        "o2_seg": 36272868.38
+    },
+    "185": {
+        "pix_trees": 742124,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 25719.049344,
+        "trees_count": 998.798032776699,
+        "o2_seg": 21728885.14
+    },
+    "199": {
+        "pix_trees": 545433,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 18902.526048,
+        "trees_count": 734.0786814757281,
+        "o2_seg": 15980963.620000001
+    },
+    "572": {
+        "pix_trees": 6877082,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 238332.153792,
+        "trees_count": 9255.61762299029,
+        "o2_seg": 201503839.65
+    },
+    "137": {
+        "pix_trees": 2350006,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 81441.80793600001,
+        "trees_count": 3162.7886577087384,
+        "o2_seg": 68844423.66
+    },
+    "463": {
+        "pix_trees": 1504399,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 52136.451744,
+        "trees_count": 2024.7165725825241,
+        "o2_seg": 44067398.32
+    },
+    "419": {
+        "pix_trees": 5197319,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 180118.28726399998,
+        "trees_count": 6994.884942291262,
+        "o2_seg": 152276375.42000002
+    },
+    "433": {
+        "pix_trees": 5583306,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 193495.052736,
+        "trees_count": 7514.370980038835,
+        "o2_seg": 163598039.02
+    },
+    "570": {
+        "pix_trees": 4302234,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 149098.221504,
+        "trees_count": 5790.2221943300965,
+        "o2_seg": 126062369.7
+    },
+    "180": {
+        "pix_trees": 1297339,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 44960.580384,
+        "trees_count": 1746.0419566601943,
+        "o2_seg": 38014662.78
+    },
+    "531": {
+        "pix_trees": 1779673,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 61676.347488,
+        "trees_count": 2395.197960699029,
+        "o2_seg": 52144969.85
+    },
+    "591": {
+        "pix_trees": 1513790,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 52461.906240000004,
+        "trees_count": 2037.3555821359225,
+        "o2_seg": 44350439.910000004
+    },
+    "178": {
+        "pix_trees": 634116,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 21975.924096,
+        "trees_count": 853.4339454757281,
+        "o2_seg": 18571882.79
+    },
+    "420": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "565": {
+        "pix_trees": 5812992,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 201455.050752,
+        "trees_count": 7823.4971165825245,
+        "o2_seg": 170325719.89000002
+    },
+    "167": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "532": {
+        "pix_trees": 433476,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 15022.544256000001,
+        "trees_count": 583.3997769320389,
+        "o2_seg": 12693326.69
+    },
+    "344": {
+        "pix_trees": 2805605,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 97231.04688000001,
+        "trees_count": 3775.9629856310685,
+        "o2_seg": 82190923.25
+    },
+    "435": {
+        "pix_trees": 1653745,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 57312.18672,
+        "trees_count": 2225.7159891262136,
+        "o2_seg": 48443656.75
+    },
+    "008": {
+        "pix_trees": 521998,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 18090.362688,
+        "trees_count": 702.538356815534,
+        "o2_seg": 15284245.86
+    },
+    "457": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "177": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "164": {
+        "pix_trees": 991102,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34347.630912,
+        "trees_count": 1333.8885791067962,
+        "o2_seg": 29022649.19
+    },
+    "446": {
+        "pix_trees": 462867,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 16041.118752,
+        "trees_count": 622.9560680388349,
+        "o2_seg": 13542451.46
+    },
+    "320": {
+        "pix_trees": 440550,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 15267.7008,
+        "trees_count": 592.9204194174757,
+        "o2_seg": 12889278.56
+    },
+    "190": {
+        "pix_trees": 4254822,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 147455.111232,
+        "trees_count": 5726.412086679611,
+        "o2_seg": 124668934.18
+    },
+    "056": {
+        "pix_trees": 1674955,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 58047.24048,
+        "trees_count": 2254.261766213592,
+        "o2_seg": 49075057.22
+    },
+    "502": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "194": {
+        "pix_trees": 595933,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 20652.654048,
+        "trees_count": 802.0448173980583,
+        "o2_seg": 17461488.86
+    },
+    "174": {
+        "pix_trees": 2677422,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 92788.736832,
+        "trees_count": 3603.4460905631067,
+        "o2_seg": 78446065.29
+    },
+    "188": {
+        "pix_trees": 4171517,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 144568.093152,
+        "trees_count": 5614.29487968932,
+        "o2_seg": 122230422.02
+    },
+    "116": {
+        "pix_trees": 5413518,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 187610.879808,
+        "trees_count": 7285.859410019418,
+        "o2_seg": 158612152.55
+    },
+    "135": {
+        "pix_trees": 5814099,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 201493.414944,
+        "trees_count": 7824.986988116504,
+        "o2_seg": 170347492.32
+    },
+    "580": {
+        "pix_trees": 2611767,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 90513.39715199999,
+        "trees_count": 3515.083384543689,
+        "o2_seg": 76530091.45
+    },
+    "470": {
+        "pix_trees": 2887102,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 100055.406912,
+        "trees_count": 3885.6468703689325,
+        "o2_seg": 84585890.55
+    },
+    "195": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "521": {
+        "pix_trees": 864,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 29.942784,
+        "trees_count": 1.162826563106796,
+        "o2_seg": 21772.43
+    },
+    "363": {
+        "pix_trees": 7540492,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 261323.290752,
+        "trees_count": 10148.477310757282,
+        "o2_seg": 220946619.64000002
+    },
+    "044": {
+        "pix_trees": 2081119,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 72123.260064,
+        "trees_count": 2800.903303456311,
+        "o2_seg": 60962804.0
+    },
+    "101": {
+        "pix_trees": 2180305,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 75560.65008,
+        "trees_count": 2934.394177864078,
+        "o2_seg": 63880309.62
+    },
+    "309": {
+        "pix_trees": 6321131,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 219065.11593600002,
+        "trees_count": 8507.383143145631,
+        "o2_seg": 185218062.01
+    },
+    "310": {
+        "pix_trees": 285967,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 9910.472351999999,
+        "trees_count": 384.8727126990291,
+        "o2_seg": 8360613.12
+    },
+    "038": {
+        "pix_trees": 3927799,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 136121.80214400002,
+        "trees_count": 5286.283578407768,
+        "o2_seg": 115089064.98
+    },
+    "043": {
+        "pix_trees": 1926183,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 66753.798048,
+        "trees_count": 2592.3805067184467,
+        "o2_seg": 56434138.56
+    },
+    "182": {
+        "pix_trees": 970226,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 33624.152256,
+        "trees_count": 1305.7923206213593,
+        "o2_seg": 28413021.150000002
+    },
+    "112": {
+        "pix_trees": 1182910,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 40994.92896,
+        "trees_count": 1592.0360761165048,
+        "o2_seg": 34661708.56
+    },
+    "068": {
+        "pix_trees": 1902086,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 65918.692416,
+        "trees_count": 2559.949220038835,
+        "o2_seg": 55715648.37
+    },
+    "005": {
+        "pix_trees": 2941291,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 101933.380896,
+        "trees_count": 3958.5778988737866,
+        "o2_seg": 86175277.94
+    },
+    "347": {
+        "pix_trees": 2256977,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 78217.794912,
+        "trees_count": 3037.5842684271843,
+        "o2_seg": 66122869.910000004
+    },
+    "157": {
+        "pix_trees": 986636,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 34192.857216,
+        "trees_count": 1327.8779501359222,
+        "o2_seg": 28892014.61
+    },
+    "049": {
+        "pix_trees": 3581162,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 124108.750272,
+        "trees_count": 4819.757292116505,
+        "o2_seg": 104921340.17
+    },
+    "170": {
+        "pix_trees": 1282780,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 44456.02368,
+        "trees_count": 1726.447521553398,
+        "o2_seg": 37579214.18
+    },
+    "159": {
+        "pix_trees": 4167534,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 144430.058304,
+        "trees_count": 5608.934303067961,
+        "o2_seg": 122099787.44
+    },
+    "304": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "390": {
+        "pix_trees": 1668293,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 57816.362208000006,
+        "trees_count": 2245.2956197281555,
+        "o2_seg": 48879105.35
+    },
+    "414": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "382": {
+        "pix_trees": 2366524,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 82014.255744,
+        "trees_count": 3185.019640543689,
+        "o2_seg": 69345189.55
+    },
+    "517": {
+        "pix_trees": 3843046,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 133184.60217600001,
+        "trees_count": 5172.21756023301,
+        "o2_seg": 112607007.96000001
+    },
+    "140": {
+        "pix_trees": 2843601,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 98547.836256,
+        "trees_count": 3827.1004371262134,
+        "o2_seg": 83323089.61
+    },
+    "429": {
+        "pix_trees": 2409582,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 83506.47379199999,
+        "trees_count": 3242.9698559999997,
+        "o2_seg": 70586218.06
+    },
+    "338": {
+        "pix_trees": 368470,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 12769.696320000001,
+        "trees_count": 495.91053669902914,
+        "o2_seg": 10777352.85
+    },
+    "361": {
+        "pix_trees": 230946,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 8003.664575999999,
+        "trees_count": 310.8219252815534,
+        "o2_seg": 6749453.3
+    },
+    "451": {
+        "pix_trees": 6310195,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 218686.11792,
+        "trees_count": 8492.664773592232,
+        "o2_seg": 184891475.56
+    },
+    "014": {
+        "pix_trees": 2494287,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 86442.010272,
+        "trees_count": 3356.971272699029,
+        "o2_seg": 73068275.08
+    },
+    "296": {
+        "pix_trees": 370913,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 12854.360928,
+        "trees_count": 499.1984826407767,
+        "o2_seg": 10864442.57
+    },
+    "427": {
+        "pix_trees": 2749,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 95.269344,
+        "trees_count": 3.699780349514563,
+        "o2_seg": 65317.29
+    },
+    "083": {
+        "pix_trees": 4284874,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 148496.593344,
+        "trees_count": 5766.857993941748,
+        "o2_seg": 125539831.38
+    },
+    "081": {
+        "pix_trees": 327432,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 11347.483392,
+        "trees_count": 440.6789666796117,
+        "o2_seg": 9579869.2
+    },
+    "513": {
+        "pix_trees": 5004258,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 173427.565248,
+        "trees_count": 6735.051077592233,
+        "o2_seg": 146637316.05
+    },
+    "583": {
+        "pix_trees": 2184546,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 75707.626176,
+        "trees_count": 2940.101987417476,
+        "o2_seg": 64010944.2
+    },
+    "026": {
+        "pix_trees": 8998999,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 311869.309344,
+        "trees_count": 12111.429489087379,
+        "o2_seg": 263685899.73
+    },
+    "013": {
+        "pix_trees": 2639954,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 91490.245824,
+        "trees_count": 3553.0192553009706,
+        "o2_seg": 77357443.79
+    },
+    "051": {
+        "pix_trees": 1892668,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 65592.302208,
+        "trees_count": 2547.2738721553396,
+        "o2_seg": 55454379.21
+    },
+    "398": {
+        "pix_trees": 1021605,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 35404.74288,
+        "trees_count": 1374.9414710679612,
+        "o2_seg": 29915318.82
+    },
+    "367": {
+        "pix_trees": 302573,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 10485.969888,
+        "trees_count": 407.2221315728155,
+        "o2_seg": 8861379.01
+    },
+    "060": {
+        "pix_trees": 2056020,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 71253.42912,
+        "trees_count": 2767.123460970874,
+        "o2_seg": 60244313.81
+    },
+    "045": {
+        "pix_trees": 4634826,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 160624.529856,
+        "trees_count": 6237.845819650486,
+        "o2_seg": 135794645.91
+    },
+    "554": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    },
+    "393": {
+        "pix_trees": 1976818,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 68508.604608,
+        "trees_count": 2660.528334291262,
+        "o2_seg": 57914663.800000004
+    },
+    "424": {
+        "pix_trees": 933819,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 32362.431264000003,
+        "trees_count": 1256.7934471456313,
+        "o2_seg": 27346172.080000002
+    },
+    "430": {
+        "pix_trees": 0,
+        "pix_total": 24000000,
+        "total_area": 831744,
+        "trees_area": 0.0,
+        "trees_count": 0.0,
+        "o2_seg": 0.0
+    }
+}
