@@ -9,7 +9,7 @@ from PIL import Image
 from pathlib import Path
 
 
-path = '/home/hastagab/Desktop/semantic-dataset/RGB_color_image_masks/RGB_color_image_masks/'
+path = '/home/polymath/Desktop/Rodasi/semantic-dataset/RGB_color_image_masks/RGB_color_image_masks/'
 
 y = dict()
 count = 0
@@ -24,12 +24,21 @@ for (root, dirs, files) in os.walk(path, topdown=True):
 
     green = 0
     other = 0
+    grass = 0
+    build = 0
+    water = 0
 
     for pixel in im.getdata():
         if pixel == (51, 51, 0) : 
             green += 1
         elif pixel == (107, 142, 35) :
             green += 1
+        elif pixel== (0,102, 0):
+            grass += 1
+        elif pixel== (0,102, 0):
+            build += 1
+        elif pixel== (28,42,168):
+            water+= 1
         else:
             other += 1
 
@@ -37,10 +46,15 @@ for (root, dirs, files) in os.walk(path, topdown=True):
     im = Image.open(file)
     image = cv2.imread(file,0)
 
-    total_area = 912*912
-    area_by_trees = total_area * ((green) / image.size)
-    O2_seg = int(area_by_trees/25.75)*21772.43
-    
+    total_area = 9.5 * 12.8 ##sq. mtr
+    area_by_trees = ((12.8/6000)*(9.5/4000)*green)
+    O2_seg = int(area_by_trees/2.675)*260
+    CO2_seg = int(area_by_trees/2.675)*48
+
+    try:
+      ratio = str(build/green)
+    except:
+      ratio = "The greenery status is next to nill"
 
 
     # x = {
@@ -56,13 +70,17 @@ for (root, dirs, files) in os.walk(path, topdown=True):
 
 
     y[name] = {
-    "pix_trees": green,
-    "pix_total": image.size,
-    "total_area": total_area,
-    "trees_area": area_by_trees,
-    "trees_count": area_by_trees/25.75,
-    "o2_seg": O2_seg
-      }
+    "pix_trees": str(green) + " px",
+    "pix_total": str(image.size) + " px",
+    "total_area": str(total_area) + " sq. mtr",
+    "trees_area": str(area_by_trees) + " sq. mtr",
+    "trees_count": str(round(area_by_trees/2.675)) + " trees",
+    "o2_seg": str(O2_seg) + " pounds/year",
+    "Area_under_water_bodies": str(((12.8/6000)*(9.5/4000)*water)) + " sq. mtr",
+    "Building by Tree Ratio" : ratio,
+    "area_grassland": str(((12.8/6000)*(9.5/4000)*grass)) + " sq. mtr",
+    "CO2_conversion": str(CO2_seg) + " pounds/year"
+    }
 
     print("Files Done: ",str(count))
 
